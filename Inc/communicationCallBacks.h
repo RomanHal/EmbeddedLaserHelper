@@ -1,0 +1,1 @@
+void dataGetted(uint32_t amount);
